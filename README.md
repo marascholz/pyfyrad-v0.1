@@ -1,2 +1,3 @@
 # pyfyrad-v0.1
-https://mybinder.org/v2/gh/marascholz/pyfyrad-v0.1/HEAD
+https://mybinder.org/v2/gh/marascholz/pyfyrad-v0.1.git/main
+
